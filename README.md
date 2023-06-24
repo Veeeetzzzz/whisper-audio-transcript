@@ -1,6 +1,6 @@
 # Whisper Audio Transcript
 
-A quick and dirty approach to show how users to upload an audio file and receive a transcribed version of the content using OpenAI's Whisper API.
+A quick and dirty approach to show how users to upload an audio file and receive a transcribed version of the content using OpenAI's Whisper speech to text API.
 
 Use cases: automatically generating lyrics, subtitle (.SRT) files (with some changes to output), automatic meeting transcriptions.
 
