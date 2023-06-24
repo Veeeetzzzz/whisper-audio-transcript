@@ -1,6 +1,11 @@
 # Whisper Audio Transcript
 
-This application enables users to upload an audio file and receive a transcribed version of the content using OpenAI's Whisper API.
+A quick and dirty approach to show how users to upload an audio file and receive a transcribed version of the content using OpenAI's Whisper API.
+
+Use cases: automatically generating lyrics, subtitle (.SRT) files (with some changes to output), automatic meeting transcriptions.
+
+![image](https://github.com/Veeeetzzzz/whisper-audio-transcript/assets/40268197/128d15ad-09fd-4203-ada1-2d5de3ec167b)
+
 
 # Installation
 
@@ -27,5 +32,7 @@ The server uses OpenAI's Whisper system to transcribe the audio.
 The transcription is sent back to the client and displayed in the web interface.
 
 # Contribution
+
+This is far from finished. Just a proof of concept that can be expanded on.
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
